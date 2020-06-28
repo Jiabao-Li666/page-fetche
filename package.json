@@ -1,0 +1,22 @@
+{
+  "name": "page-fetche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiabao-Li666/page-fetche.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiabao-Li666/page-fetche/issues"
+  },
+  "homepage": "https://github.com/Jiabao-Li666/page-fetche#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
